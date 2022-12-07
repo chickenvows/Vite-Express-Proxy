@@ -1,6 +1,7 @@
 # Vite-Express-Proxy
-DOES NOT WORK
+Help needed
 
-Run:
+Testing:
+
 `npm run dev` on the Vite dev server.
-`node server` on the Express server.
+`node server.js` on the Express server.
